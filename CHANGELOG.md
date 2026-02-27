@@ -6,6 +6,10 @@
 - Spanish: Add missing keys
 - Portuguese: Add missing keys
 - Translate ordinals: (nl, nl-NL, nl-BE)
+- English (en, en-\*): Add new key (`datetime.relative`, see rails/rails#55405)
+- German (de, de-\*): Add new key (`datetime.relative`, see rails/rails#55405)
+- Portuguese (pt, pt-\*): Add new key (`datetime.relative`, see rails/rails#55405)
+- Spanish (es, es-\*): Add new key (`datetime.relative`, see rails/rails#55405)
 
 ## 8.1.0 (2025-11-24)
 
